@@ -1,18 +1,8 @@
 # Hi, I'm Suma Chinta 👋
 
-**Neuroscientist × ML Engineer** — building production-ready deep learning pipelines for physiological signals.
+**Neuroscientist × ML Engineer** building production-ready deep learning pipelines for physiological signals.
 
-PhD in Computational Neuroscience (Purdue) + industry experience classifying disease states from neural recordings at [CytoTronics](https://cytotronics.com). Now targeting roles in wearables, neurotech, and pharma AI where signal processing meets real-world health impact.
-
----
-
-## What I Build
-
-| Repo | What it does | Key tech |
-|------|-------------|----------|
-| [Motor-Imagery-EEG-Classifier](https://github.com/sumachinta/Motor-Imagery-EEG-Classifier) | Decodes imagined hand movements from EEG — CNNs, RNNs, cross-subject generalization | PyTorch · MNE · EEGNet |
-| [emg-gesture-classification-ninapro](https://github.com/sumachinta/emg-gesture-classification-ninapro) | Hand gesture recognition from surface EMG (NinaPro DB2) — prosthetics-relevant benchmark | PyTorch · SciPy · 1D-CNN |
-| [body-position_decoding_model](https://github.com/sumachinta/body-position_decoding_model) | Neural decoding of continuous behavior from population spike trains — closed-loop BCI relevance | NumPy · scikit-learn · linear regression |
+PhD in Computational Neuroscience (Purdue) + industry experience classifying disease states from neural recordings at [CytoTronics](https://cytotronics.com).  Now targeting roles in wearables, neurotech, and pharma AI where signal processing meets real-world health impact.
 
 ---
 
@@ -25,12 +15,21 @@ PhD in Computational Neuroscience (Purdue) + industry experience classifying dis
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![MNE](https://img.shields.io/badge/MNE--Python-00A896?style=flat&logoColor=white)
 
-**Biosignals:** EEG · EMG · LFP · Spike trains · MEA · ECG/PPG
-**Models:** CNNs · RNNs · Transformers (learning) · XGBoost · Linear decoders
+**Biosignals:** EEG · EMG · LFP · Spike trains · MEA · ECG/PPG  
+**Models:** CNNs · RNNs · Transformers (learning) · XGBoost · Linear decoders  
 **Methods:** Cross-subject generalization · Contrastive learning · Domain adaptation · Self-supervised learning
 
 ---
 
+## What I Build
+
+| Repo | What it does | Key tech |
+|------|-------------|----------|
+| [Motor-Imagery-EEG-Classifier](https://github.com/sumachinta/Motor-Imagery-EEG-Classifier) | Decodes imagined hand movements from EEG.  CNNs, RNNs, cross-subject generalization | PyTorch · MNE · EEGNet |
+| [emg-gesture-classification-ninapro](https://github.com/sumachinta/emg-gesture-classification-ninapro) | Hand gesture recognition from surface EMG (NinaPro DB2). prosthetics-relevant benchmark | PyTorch · SciPy · 1D-CNN |
+| [body-position_decoding_model](https://github.com/sumachinta/body-position_decoding_model) | Neural decoding of continuous behavior from population spike trains. Closed-loop BCI relevance | NumPy · scikit-learn · linear regression |
+
+---
 ## Currently Building
 
 - 🧠 Adding **EEGNet + Transformer** baselines and **cross-subject evaluation** to the Motor Imagery classifier
