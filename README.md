@@ -1,8 +1,9 @@
-# Hi, I'm Suma Chinta 👋
+# Hi, I'm Suma Chinta
 
 **Neuroscientist × ML Engineer** building production-ready deep learning pipelines for physiological signals.
 
-PhD in Computational Neuroscience (Purdue) + industry experience classifying disease states from neural recordings at [CytoTronics](https://cytotronics.com).  Now targeting roles in wearables, neurotech, and pharma AI where signal processing meets real-world health impact.
+PhD in Computational Neuroscience (Purdue) + industry experience classifying disease states from neural recordings at [CytoTronics](https://cytotronics.com).    
+Now targeting roles in wearables, neurotech, and pharma AI where signal processing meets real-world health impact.
 
 ---
 
