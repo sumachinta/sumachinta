@@ -20,22 +20,6 @@ Now targeting roles in wearables, neurotech, and pharma AI where signal processi
 **Models:** CNNs · RNNs · Transformers (learning) · XGBoost · Linear decoders  
 **Methods:** Cross-subject generalization · Contrastive learning · Domain adaptation · Self-supervised learning
 
----
-
-## What I Build
-
-| Repo | What it does | Key tech |
-|------|-------------|----------|
-| [Motor-Imagery-EEG-Classifier](https://github.com/sumachinta/Motor-Imagery-EEG-Classifier) | Decodes imagined hand movements from EEG.  CNNs, RNNs, cross-subject generalization | PyTorch · MNE · EEGNet |
-| [emg-gesture-classification-ninapro](https://github.com/sumachinta/emg-gesture-classification-ninapro) | Hand gesture recognition from surface EMG (NinaPro DB2). prosthetics-relevant benchmark | PyTorch · SciPy · 1D-CNN |
-| [body-position_decoding_model](https://github.com/sumachinta/body-position_decoding_model) | Neural decoding of continuous behavior from population spike trains. Closed-loop BCI relevance | NumPy · scikit-learn · linear regression |
-
----
-## Currently Building
-
-- 🧠 Adding **EEGNet + Transformer** baselines and **cross-subject evaluation** to the Motor Imagery classifier
-- 💪 Extending EMG gesture classifier with LSTM and leave-one-subject-out benchmarking
-- 📚 Learning: PatchTST · SimCLR for biosignals · VAEs for EEG representation learning
 
 ---
 
