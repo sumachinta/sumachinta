@@ -17,7 +17,7 @@ Now targeting roles in wearables, neurotech, and pharma AI where signal processi
 ![MNE](https://img.shields.io/badge/MNE--Python-00A896?style=flat&logoColor=white)
 
 **Biosignals:** EEG · EMG · LFP · Spike trains · MEA · ECG/PPG  
-**Models:** CNNs · RNNs · Transformers (learning) · XGBoost · Linear decoders  
+**Models:** CNNs · RNNs · Transformers · XGBoost · Linear decoders  
 **Methods:** Cross-subject generalization · Contrastive learning · Domain adaptation · Self-supervised learning
 
 
